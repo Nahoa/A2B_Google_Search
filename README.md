@@ -1,0 +1,1 @@
+This is my Attempt to build the Google Search results page (just styling/ no functionality at this point in time - 4/6/21), using my knowledge from the first assignment, the Google Homepage.
