@@ -25,17 +25,41 @@
         </nav>
 
         <main id="main">
+          <!-- This is the standard results that you would get from the search -->
           <div id="results-div">
             <div id="result-container">
               <div id="web-link">https://www.testwebsite1.com</div>
               <div id="title-link">TEST WEBSITE 1</div>
               <div id="link-summary">This is the summary of website 1</div>
-              <div id="bot-links">
-                <ul>
+              <!-- uncomment this to add in the links at the bottom  <div id="bot-links">
+                <ul> 
                   <a href="#">link 1</a>
                   <a href="#">link 2</a>
                   <a href="#">link 3</a>
                 </ul>
+              </div> -->
+            </div>
+
+            <!-- This goes after the 5th result -->
+            <div id="suggestion-div">
+              <h2 id="title">People also ask</h2>
+              <div id="suggested-questions">
+                <div id="related-question">
+                  <h2 id="question-title">How can I create my own webpage?</h2>
+                </div>
+                <div id="related-question">
+                  <h2 id="question-title">
+                    How much does it cost to have someone build your website?
+                  </h2>
+                </div>
+                <div id="related-question">
+                  <h2 id="question-title">
+                    How hard is it to build your own website?
+                  </h2>
+                </div>
+                <div id="related-question">
+                  <h2 id="question-title">Where can I build a website?</h2>
+                </div>
               </div>
             </div>
           </div>
