@@ -2,3 +2,22 @@
 .page {
     background-color: yellow;
 }
+
+.results-div {
+    color: red;
+    padding: auto;
+}
+
+.result-container {
+    color: blue;
+    
+}
+
+.web-link {
+    color: black;
+    display: inline-flex;
+}
+
+.right-link {
+    color: pink;
+}
