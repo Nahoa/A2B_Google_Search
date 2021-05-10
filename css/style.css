@@ -1,7 +1,7 @@
 /******************** TOP NAVIGATION BAR **************************/
 /*********************** SEARCH RESULTS ***************************/
 .results-div {
-    color: red;
+    color: rgb(145, 16, 134);
     padding: auto;
 }
 
@@ -83,4 +83,22 @@
     font-size: medium;
 }
 /********************* QUESTION SUGGESTIONS ***********************/
+.suggestion-header {
+    display: inline-flex;
+    margin-top: 5px;
+}
+
+.suggestion-header-wrapper {
+        /* TODO Fill with spacing */
+        margin: auto;
+}
+
+.suggestion-title {
+    margin: 0px;
+}
+
+.drop-down-arrow {
+    max-width: auto;
+    height: auto;
+}
 /************************** FOOTER ********************************/
