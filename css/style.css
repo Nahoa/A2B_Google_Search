@@ -1,8 +1,5 @@
-/*  TODO This is where my CSS will go */
-.page {
-    background-color: yellow;
-}
-
+/******************** TOP NAVIGATION BAR **************************/
+/*********************** SEARCH RESULTS ***************************/
 .results-div {
     color: red;
     padding: auto;
@@ -85,3 +82,5 @@
     color: chartreuse;
     font-size: medium;
 }
+/********************* QUESTION SUGGESTIONS ***********************/
+/************************** FOOTER ********************************/
