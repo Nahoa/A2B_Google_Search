@@ -119,6 +119,8 @@
 
 .drop-down-arrow {
   height: auto;
+  max-height: 24px;
+  max-width: 24px;
   padding-top: 7px;
   margin-left: 36px;
 }
