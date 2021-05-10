@@ -16,8 +16,72 @@
 .web-link {
     color: black;
     display: inline-flex;
+    font-size: 14px;
 }
 
 .right-link {
+    /* TODO Fill with spacing and Color and size */
     color: pink;
+    padding: 5px;
+    padding-right: 0px;
+}
+
+.website-text {
+        /* TODO Fill with spacing */
+        margin: auto;
+}
+
+.left-link {
+    /* TODO Fill with spacing */
+    margin: auto; 
+    padding: 5px;
+}
+
+.website-title {
+    /* TODO Fill with spacing and Color and Size */
+    color: #5f6368;
+}
+
+.about-link {
+    /* TODO Fill with spacing */
+    margin: auto;
+    padding-left: 15px;
+}
+
+.title-wrapper {
+        /* TODO Fill with spacing */
+        margin: auto;
+}
+
+.title-link {
+        /* TODO Fill with spacing */
+        margin: auto;
+}
+
+.title-text {
+        /* TODO Fill with spacing and Color and Size  */
+        margin: auto;
+        font-size: 19px;
+        text-decoration: none;
+}
+
+.title-text:hover {
+    text-decoration: underline;
+}
+
+.summary-wrapper {
+        /* TODO Fill with spacing */
+        margin: auto;
+}
+
+.summary-link {
+        /* TODO Fill with spacing */
+        margin: auto;
+}
+
+.summary-text{
+    /* TODO Fill with spacing */
+    margin: auto;
+    color: chartreuse;
+    font-size: medium;
 }
