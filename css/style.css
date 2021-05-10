@@ -1,104 +1,129 @@
 /******************** TOP NAVIGATION BAR **************************/
 /*********************** SEARCH RESULTS ***************************/
 .results-div {
-    color: rgb(145, 16, 134);
-    padding: auto;
+  color: rgb(145, 16, 134);
+  padding: auto;
 }
 
 .result-container {
-    color: blue;
-    
+  color: blue;
 }
 
 .web-link {
-    color: black;
-    display: inline-flex;
-    font-size: 14px;
+  color: black;
+  display: inline-flex;
+  font-size: 14px;
 }
 
 .right-link {
-    /* TODO Fill with spacing and Color and size */
-    color: pink;
-    padding: 5px;
-    padding-right: 0px;
+  /* TODO Fill with spacing and Color and size */
+  color: pink;
+  padding: 5px;
+  padding-right: 0px;
 }
 
 .website-text {
-        /* TODO Fill with spacing */
-        margin: auto;
+  /* TODO Fill with spacing */
+  margin: auto;
 }
 
 .left-link {
-    /* TODO Fill with spacing */
-    margin: auto; 
-    padding: 5px;
+  /* TODO Fill with spacing */
+  margin: auto;
+  padding: 5px;
 }
 
 .website-title {
-    /* TODO Fill with spacing and Color and Size */
-    color: #5f6368;
+  /* TODO Fill with spacing and Color and Size */
+  color: #5f6368;
 }
 
 .about-link {
-    /* TODO Fill with spacing */
-    margin: auto;
-    padding-left: 15px;
+  /* TODO Fill with spacing */
+  margin: auto;
+  padding-left: 15px;
 }
 
 .title-wrapper {
-        /* TODO Fill with spacing */
-        margin: auto;
+  /* TODO Fill with spacing */
+  margin: auto;
 }
 
 .title-link {
-        /* TODO Fill with spacing */
-        margin: auto;
+  /* TODO Fill with spacing */
+  margin: auto;
 }
 
 .title-text {
-        /* TODO Fill with spacing and Color and Size  */
-        margin: auto;
-        font-size: 19px;
-        text-decoration: none;
+  /* TODO Fill with spacing and Color and Size  */
+  margin: auto;
+  font-size: 19px;
+  text-decoration: none;
 }
 
 .title-text:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .summary-wrapper {
-        /* TODO Fill with spacing */
-        margin: auto;
+  /* TODO Fill with spacing */
+  margin: auto;
 }
 
 .summary-link {
-        /* TODO Fill with spacing */
-        margin: auto;
+  /* TODO Fill with spacing */
+  margin: auto;
 }
 
-.summary-text{
-    /* TODO Fill with spacing */
-    margin: auto;
-    color: chartreuse;
-    font-size: medium;
+.summary-text {
+  /* TODO Fill with spacing */
+  margin: auto;
+  color: chartreuse;
+  font-size: medium;
 }
 /********************* QUESTION SUGGESTIONS ***********************/
+.suggestion-div {
+    font-size: small;
+}
 .suggestion-header {
-    display: inline-flex;
-    margin-top: 5px;
+  display: inline-flex;
+  margin-top: 5px;
 }
 
 .suggestion-header-wrapper {
-        /* TODO Fill with spacing */
-        margin: auto;
+  /* TODO Fill with spacing */
+  margin: auto;
 }
 
 .suggestion-title {
-    margin: 0px;
+  margin: 0px;
+}
+
+.suggested-questions {
+    /* TODO Fill with spacing */
+    margin: auto;
+}
+
+.related-question {
+    /* TODO Fill with spacing */
+  margin: auto;
+  display: inline-flex;
+  border-top: 1px solid rgb(145, 145, 145);
+  
+}
+
+.question-title {
+    /* TODO Fill with spacing */
+    margin: auto;
 }
 
 .drop-down-arrow {
-    max-width: auto;
-    height: auto;
+  height: auto;
+  padding-top: 7px;
+  margin-left: 36px;
+}
+
+.drop-down-arrow:hover {
+    cursor: pointer;
 }
 /************************** FOOTER ********************************/
